@@ -1,0 +1,12 @@
+5. sc query type= driver | findstr "STATE" | findstr "RUNNING" | find /C "RUNNING"
+This command tells me 184 active drivers are running
+
+WiFi driver: Netwtw08.sys (Intel Wireless-AC 9560)
+Location: C:\Windows\System32\drivers\
+
+6.1. 
+CPU usage: 0.9% 
+Ram usage: 870.07MB
+6.2 
+Browser: Googlechrome
+File location: C:\Program Files\Google\Chrome\Application

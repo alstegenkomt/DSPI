@@ -1,0 +1,15 @@
+4
+1. Intel(r) Core(TM) i5-8365U CPU @ 1.60GHz cores: 4 numberoflogicalprocessors: 8 maxclockspeed: 1896
+2. 16GB SODIMM 5600 MT/s
+3. Intel(R) UHD Graphics 620
+4. 1.4.2
+
+5. The boot order for my computer is 1. Windows boot manager(SSD) 2. USB HDD. 3. Network Boot (PXE)
+It can boot from a USB device.
+
+6 
+Current resolution 1920x1080
+portrait mode made my entire screen rotate 90 degrees. It might be more useful for reading long texts but I don't really enjoy it.
+When changed to 800x600 the display dropped significantly in quality.
+
+7

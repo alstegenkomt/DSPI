@@ -1,0 +1,16 @@
+77 6F 72 6C 64
+byte 62
+byte 19
+I cannot open it I get an error?
+in .exe bytes are the same
+
+7
+1. 1
+2. Model: Intel SSDPEKNW512G8 (Intel 660p NVMe)
+   Capacity: 512 GB
+   Read speed: ~1800 MB/s
+   Write speed: ~1800 MB/s
+3. EFI System Partition (~100 MB) → Contains boot files
+   Microsoft Reserved Partition (16 MB, hidden) → Reserved by Windows
+   C: (~475 GB) → Main partition, contains Windows OS and user data
+   Recovery Partition (~500 MB) → Used for Windows recovery
